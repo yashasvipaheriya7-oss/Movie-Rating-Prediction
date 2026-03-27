@@ -1,6 +1,0 @@
-Package                Used For
-streamlit              Web app framework (app.py)
-requests               TMDB API calls + HTTP adapter
-urllib3                Retry logic (urllib3.util.retry)
-pandas                 CSV loading & data handling
-scikit-learn           TF-IDF vectorizer + Logistic Regression model
